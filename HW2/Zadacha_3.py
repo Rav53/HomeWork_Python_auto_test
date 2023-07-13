@@ -2,22 +2,24 @@
 # дробь с числителем и знаменателем. Программа должна возвращать сумму
 # и произведение дробей.Для проверки своего кода используйте модуль fractions.
 
-from fractions import Fraction
+import fractions
 
-# Ввод данных
-input_str1 = input("Введите числитель: ")
-input_str2 = input("Введите знаменатель: ")
+first: str = str(input("Введите числитель первой дроби "))
+second: str = str(input("Введите знаменатель первой дроби "))
+third: str = str(input("Введите числитель второй дроби "))
+fourth: str = str(input("Введите знаменатель второй дроби "))
+number1: int = int(first)
+number2: int = int(second)
+number3: int = int(third)
+number4: int = int(fourth)
 
-# Преобразование строкового вида в объекты Fraction
-fraction1 = Fraction(input_str1)
-fraction2 = Fraction(input_str2)
-
-# Сумма дробей
-sum_fraction = fraction1 + fraction2
-
-# Произведение дробей
-product_fraction = fraction1 * fraction2
-
-# Вывод результата
-print("Сумма числителя и знаменателя:", sum_fraction)
-print("Произведение числителя и знаменателя:", product_fraction)
+result1 = (number1 / number2 ) + (number3 / number4)
+result2 = (number1 / number2 ) * (number3 / number4)
+print(result1)
+print(result2)
+firstfraction = fractions.Fraction(number1, number2)
+secondfraction = fractions.Fraction(number3, number4)
+result3 = firstfraction + secondfraction
+result4 = firstfraction * secondfraction
+print(result3)
+print(result4)
