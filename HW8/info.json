@@ -1,0 +1,1295 @@
+{
+  "parent": "Python_autotest",
+  "name": "HomeWork_auto_test",
+  "type": "dir",
+  "size": 85068,
+  "child": [
+    {
+      "parent": "HomeWork_auto_test",
+      "name": ".git",
+      "type": "dir",
+      "size": 46483,
+      "child": [
+        {
+          "parent": ".git",
+          "name": "COMMIT_EDITMSG",
+          "size": 16,
+          "type": "file"
+        },
+        {
+          "parent": ".git",
+          "name": "config",
+          "size": 130,
+          "type": "file"
+        },
+        {
+          "parent": ".git",
+          "name": "description",
+          "size": 73,
+          "type": "file"
+        },
+        {
+          "parent": ".git",
+          "name": "HEAD",
+          "size": 23,
+          "type": "file"
+        },
+        {
+          "parent": ".git",
+          "name": "hooks",
+          "type": "dir",
+          "size": 23442,
+          "child": [
+            {
+              "parent": "hooks",
+              "name": "applypatch-msg.sample",
+              "size": 478,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "commit-msg.sample",
+              "size": 896,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "fsmonitor-watchman.sample",
+              "size": 4655,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "post-update.sample",
+              "size": 189,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "pre-applypatch.sample",
+              "size": 424,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "pre-commit.sample",
+              "size": 1643,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "pre-merge-commit.sample",
+              "size": 416,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "pre-push.sample",
+              "size": 1374,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "pre-rebase.sample",
+              "size": 4898,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "pre-receive.sample",
+              "size": 544,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "prepare-commit-msg.sample",
+              "size": 1492,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "push-to-checkout.sample",
+              "size": 2783,
+              "type": "file"
+            },
+            {
+              "parent": "hooks",
+              "name": "update.sample",
+              "size": 3650,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "parent": ".git",
+          "name": "index",
+          "size": 2787,
+          "type": "file"
+        },
+        {
+          "parent": ".git",
+          "name": "info",
+          "type": "dir",
+          "size": 240,
+          "child": [
+            {
+              "parent": "info",
+              "name": "exclude",
+              "size": 240,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "parent": ".git",
+          "name": "logs",
+          "type": "dir",
+          "size": 2086,
+          "child": [
+            {
+              "parent": "logs",
+              "name": "HEAD",
+              "size": 1043,
+              "type": "file"
+            },
+            {
+              "parent": "logs",
+              "name": "refs",
+              "type": "dir",
+              "size": 1043,
+              "child": [
+                {
+                  "parent": "refs",
+                  "name": "heads",
+                  "type": "dir",
+                  "size": 1043,
+                  "child": [
+                    {
+                      "parent": "heads",
+                      "name": "master",
+                      "size": 1043,
+                      "type": "file"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "parent": ".git",
+          "name": "objects",
+          "type": "dir",
+          "size": 17645,
+          "child": [
+            {
+              "parent": "objects",
+              "name": "01",
+              "type": "dir",
+              "size": 509,
+              "child": [
+                {
+                  "parent": "01",
+                  "name": "8cf310d573f48cf09b26b704a40607ed51f6ea",
+                  "size": 509,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "03",
+              "type": "dir",
+              "size": 162,
+              "child": [
+                {
+                  "parent": "03",
+                  "name": "96c0c400682ab2733ab4637183a7b43f468432",
+                  "size": 162,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "07",
+              "type": "dir",
+              "size": 197,
+              "child": [
+                {
+                  "parent": "07",
+                  "name": "44e8682c51fddb608e2f5575e36218ac73eb56",
+                  "size": 197,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "0d",
+              "type": "dir",
+              "size": 116,
+              "child": [
+                {
+                  "parent": "0d",
+                  "name": "23208f1143259c8205d44da0f0a9f905404c29",
+                  "size": 116,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "11",
+              "type": "dir",
+              "size": 446,
+              "child": [
+                {
+                  "parent": "11",
+                  "name": "d0c8b53e5f492fd9469757fc4df4f6390e7bee",
+                  "size": 446,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "1b",
+              "type": "dir",
+              "size": 415,
+              "child": [
+                {
+                  "parent": "1b",
+                  "name": "ff779f556ff6c49883993bbf472f37ccbdc2c0",
+                  "size": 415,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "2d",
+              "type": "dir",
+              "size": 166,
+              "child": [
+                {
+                  "parent": "2d",
+                  "name": "7f0158e22b5ad87d8192167d3f03c06067e095",
+                  "size": 166,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "2e",
+              "type": "dir",
+              "size": 541,
+              "child": [
+                {
+                  "parent": "2e",
+                  "name": "af0b1084112d7b02f72ee6edfc4304af3ce874",
+                  "size": 541,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "2f",
+              "type": "dir",
+              "size": 63,
+              "child": [
+                {
+                  "parent": "2f",
+                  "name": "66cf4b9f458e374942c731e2a34dbb9fffeb27",
+                  "size": 63,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "30",
+              "type": "dir",
+              "size": 821,
+              "child": [
+                {
+                  "parent": "30",
+                  "name": "27aad7ff44a4f5e51993370b68ebe7e21cb986",
+                  "size": 698,
+                  "type": "file"
+                },
+                {
+                  "parent": "30",
+                  "name": "5638cd86db28eb1f06dac876920d988ce7b0f0",
+                  "size": 123,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "3a",
+              "type": "dir",
+              "size": 75,
+              "child": [
+                {
+                  "parent": "3a",
+                  "name": "5a2c22976c34e5b68cb22e89244e15568d531c",
+                  "size": 75,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "4b",
+              "type": "dir",
+              "size": 15,
+              "child": [
+                {
+                  "parent": "4b",
+                  "name": "825dc642cb6eb9a060e54bf8d69288fbee4904",
+                  "size": 15,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "4e",
+              "type": "dir",
+              "size": 71,
+              "child": [
+                {
+                  "parent": "4e",
+                  "name": "c6891f464c94812bfb15e9c7e7d776a351781c",
+                  "size": 71,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "4f",
+              "type": "dir",
+              "size": 161,
+              "child": [
+                {
+                  "parent": "4f",
+                  "name": "35da09bc33ea202be2698f9fe8aa5b274d0dc0",
+                  "size": 161,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "58",
+              "type": "dir",
+              "size": 555,
+              "child": [
+                {
+                  "parent": "58",
+                  "name": "66ea5fe856efc8b817bb7dfca551a0457910fe",
+                  "size": 555,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "59",
+              "type": "dir",
+              "size": 160,
+              "child": [
+                {
+                  "parent": "59",
+                  "name": "9bf71b856126596ee14aeb27c238a30ff627f6",
+                  "size": 160,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "5c",
+              "type": "dir",
+              "size": 1495,
+              "child": [
+                {
+                  "parent": "5c",
+                  "name": "b8fe4843ff27c234eadb48156eedca790f22d7",
+                  "size": 1280,
+                  "type": "file"
+                },
+                {
+                  "parent": "5c",
+                  "name": "fb9924f77e77bce9d6e4c7e5ca158d9fbf2be2",
+                  "size": 215,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "5e",
+              "type": "dir",
+              "size": 407,
+              "child": [
+                {
+                  "parent": "5e",
+                  "name": "177640b2e91dad1a18aaf423366f806a09fd8f",
+                  "size": 407,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "63",
+              "type": "dir",
+              "size": 161,
+              "child": [
+                {
+                  "parent": "63",
+                  "name": "c1bc91e53aab64d0ddcf6aa8761fb3a3446264",
+                  "size": 161,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "65",
+              "type": "dir",
+              "size": 430,
+              "child": [
+                {
+                  "parent": "65",
+                  "name": "3c8f60298664a2b89b7d14e6cf242a921b728a",
+                  "size": 430,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "66",
+              "type": "dir",
+              "size": 82,
+              "child": [
+                {
+                  "parent": "66",
+                  "name": "035cb8da13c604c4df782d8f3447c87d3de8fe",
+                  "size": 82,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "6a",
+              "type": "dir",
+              "size": 160,
+              "child": [
+                {
+                  "parent": "6a",
+                  "name": "8980f4a1cc57cab622fb8813238019e04273a7",
+                  "size": 160,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "6c",
+              "type": "dir",
+              "size": 96,
+              "child": [
+                {
+                  "parent": "6c",
+                  "name": "ed5c42d27f99d62a5e18d4add9a2ac33a695f7",
+                  "size": 96,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "76",
+              "type": "dir",
+              "size": 83,
+              "child": [
+                {
+                  "parent": "76",
+                  "name": "47e0afc0ba2bdcdbae48f6d55848f8dcfe8097",
+                  "size": 83,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "7c",
+              "type": "dir",
+              "size": 681,
+              "child": [
+                {
+                  "parent": "7c",
+                  "name": "d23f4f494878adc139f46955823826284180e6",
+                  "size": 681,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "81",
+              "type": "dir",
+              "size": 591,
+              "child": [
+                {
+                  "parent": "81",
+                  "name": "a925820058ad0309c1517e0d79a636c3b22f97",
+                  "size": 591,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "86",
+              "type": "dir",
+              "size": 872,
+              "child": [
+                {
+                  "parent": "86",
+                  "name": "05ccbfb571b98cf89052e855da0e43af80ae76",
+                  "size": 872,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "8b",
+              "type": "dir",
+              "size": 147,
+              "child": [
+                {
+                  "parent": "8b",
+                  "name": "30a984902e25c89c55c8686a3d57ecaaf9dd96",
+                  "size": 147,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "8d",
+              "type": "dir",
+              "size": 971,
+              "child": [
+                {
+                  "parent": "8d",
+                  "name": "125981fb548afcfc46483e838119b39e17043a",
+                  "size": 484,
+                  "type": "file"
+                },
+                {
+                  "parent": "8d",
+                  "name": "40cf6200c2270c15d4ba1c7518a9da04fe0fb3",
+                  "size": 487,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "99",
+              "type": "dir",
+              "size": 111,
+              "child": [
+                {
+                  "parent": "99",
+                  "name": "5bd5ca50fc076915b4d25caa97e5f54509c5e8",
+                  "size": 111,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "9a",
+              "type": "dir",
+              "size": 353,
+              "child": [
+                {
+                  "parent": "9a",
+                  "name": "133ce39dafa64e3672e570548096c00dc99f76",
+                  "size": 83,
+                  "type": "file"
+                },
+                {
+                  "parent": "9a",
+                  "name": "a76f54515da9031176a7df1b5fae4c47eb0d60",
+                  "size": 270,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "9b",
+              "type": "dir",
+              "size": 107,
+              "child": [
+                {
+                  "parent": "9b",
+                  "name": "a7054bf142101f5cdf039bb97e0d3889d6b9f3",
+                  "size": 107,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "9c",
+              "type": "dir",
+              "size": 475,
+              "child": [
+                {
+                  "parent": "9c",
+                  "name": "64c8518097fcdedaa96d481b1afdec1edaf221",
+                  "size": 315,
+                  "type": "file"
+                },
+                {
+                  "parent": "9c",
+                  "name": "bb443543538fa3cdd714fd43f76bd08cdb13a7",
+                  "size": 160,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "a2",
+              "type": "dir",
+              "size": 122,
+              "child": [
+                {
+                  "parent": "a2",
+                  "name": "487afa0c0396eee4837be8e091763819e9c329",
+                  "size": 122,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "a4",
+              "type": "dir",
+              "size": 110,
+              "child": [
+                {
+                  "parent": "a4",
+                  "name": "1bdc43332d732f634bf68c935b244352048605",
+                  "size": 110,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "a5",
+              "type": "dir",
+              "size": 634,
+              "child": [
+                {
+                  "parent": "a5",
+                  "name": "1c10d7da924399d32b2233bab2e8ac38b7104a",
+                  "size": 634,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "a8",
+              "type": "dir",
+              "size": 394,
+              "child": [
+                {
+                  "parent": "a8",
+                  "name": "a6a926c5f2f33293797229dfb95e4df0a8ea67",
+                  "size": 119,
+                  "type": "file"
+                },
+                {
+                  "parent": "a8",
+                  "name": "c27d4ea38b6fa10c76b1235287d7d816f991ef",
+                  "size": 275,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "ab",
+              "type": "dir",
+              "size": 209,
+              "child": [
+                {
+                  "parent": "ab",
+                  "name": "e4fd8154b54d994f768e5c08914b478e7c3a41",
+                  "size": 209,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "b3",
+              "type": "dir",
+              "size": 533,
+              "child": [
+                {
+                  "parent": "b3",
+                  "name": "65e2ffb444fa0823b0c9eb3d043c2ab3137e4c",
+                  "size": 533,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "b4",
+              "type": "dir",
+              "size": 237,
+              "child": [
+                {
+                  "parent": "b4",
+                  "name": "f3c11bed3f1ebba52eb8499a3f23da36a171e3",
+                  "size": 237,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "b5",
+              "type": "dir",
+              "size": 111,
+              "child": [
+                {
+                  "parent": "b5",
+                  "name": "3e995ce0114d44b23ab8c501a4b9f2f9246d79",
+                  "size": 111,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "c3",
+              "type": "dir",
+              "size": 270,
+              "child": [
+                {
+                  "parent": "c3",
+                  "name": "db1ecf01c60eca934cba679685af16c5f9cb0a",
+                  "size": 270,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "c4",
+              "type": "dir",
+              "size": 265,
+              "child": [
+                {
+                  "parent": "c4",
+                  "name": "44214a23fad122ce4139e4e62d7d0a88b65729",
+                  "size": 265,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "cc",
+              "type": "dir",
+              "size": 999,
+              "child": [
+                {
+                  "parent": "cc",
+                  "name": "25d964ae1e44bd8f3f079652d01adf0ad6e021",
+                  "size": 999,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "d0",
+              "type": "dir",
+              "size": 129,
+              "child": [
+                {
+                  "parent": "d0",
+                  "name": "01cfde43c5c2aed60867aebe9b085e28b95795",
+                  "size": 129,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "d5",
+              "type": "dir",
+              "size": 284,
+              "child": [
+                {
+                  "parent": "d5",
+                  "name": "e09f8f05bf6674239898c75a70a3cf01a42143",
+                  "size": 284,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "d6",
+              "type": "dir",
+              "size": 97,
+              "child": [
+                {
+                  "parent": "d6",
+                  "name": "2d856da279f5fbaf9db2fdd9a0ff5c513dc75a",
+                  "size": 97,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "d9",
+              "type": "dir",
+              "size": 678,
+              "child": [
+                {
+                  "parent": "d9",
+                  "name": "f944a3a774e7f79a49d774cc27a87abebf46b0",
+                  "size": 678,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "db",
+              "type": "dir",
+              "size": 83,
+              "child": [
+                {
+                  "parent": "db",
+                  "name": "6b35e2dacf59a1ec31d5dbab26fc1b107bde92",
+                  "size": 83,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "e2",
+              "type": "dir",
+              "size": 283,
+              "child": [
+                {
+                  "parent": "e2",
+                  "name": "0e5355bf8ddabc92568b57ebba7207c0b973c5",
+                  "size": 283,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "e8",
+              "type": "dir",
+              "size": 225,
+              "child": [
+                {
+                  "parent": "e8",
+                  "name": "2020357a64b1ffb5086fa25072049f537244a3",
+                  "size": 225,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "f1",
+              "type": "dir",
+              "size": 287,
+              "child": [
+                {
+                  "parent": "f1",
+                  "name": "806b6cd6209e0e8fe10e92adaaf791a217c234",
+                  "size": 287,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "objects",
+              "name": "info",
+              "type": "dir",
+              "size": 0,
+              "child": []
+            },
+            {
+              "parent": "objects",
+              "name": "pack",
+              "type": "dir",
+              "size": 0,
+              "child": []
+            }
+          ]
+        },
+        {
+          "parent": ".git",
+          "name": "refs",
+          "type": "dir",
+          "size": 41,
+          "child": [
+            {
+              "parent": "refs",
+              "name": "heads",
+              "type": "dir",
+              "size": 41,
+              "child": [
+                {
+                  "parent": "heads",
+                  "name": "master",
+                  "size": 41,
+                  "type": "file"
+                }
+              ]
+            },
+            {
+              "parent": "refs",
+              "name": "tags",
+              "type": "dir",
+              "size": 0,
+              "child": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW1",
+      "type": "dir",
+      "size": 2739,
+      "child": [
+        {
+          "parent": "HW1",
+          "name": "Zadacha_2.py",
+          "size": 1688,
+          "type": "file"
+        },
+        {
+          "parent": "HW1",
+          "name": "Zadacha_3.py",
+          "size": 1051,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW2",
+      "type": "dir",
+      "size": 2179,
+      "child": [
+        {
+          "parent": "HW2",
+          "name": "Zadacha_2.py",
+          "size": 939,
+          "type": "file"
+        },
+        {
+          "parent": "HW2",
+          "name": "Zadacha_3.py",
+          "size": 1240,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW3",
+      "type": "dir",
+      "size": 3662,
+      "child": [
+        {
+          "parent": "HW3",
+          "name": "Zadacha_2.py",
+          "size": 430,
+          "type": "file"
+        },
+        {
+          "parent": "HW3",
+          "name": "Zadacha_3.py",
+          "size": 1978,
+          "type": "file"
+        },
+        {
+          "parent": "HW3",
+          "name": "Zadacha_4.py",
+          "size": 1254,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW4",
+      "type": "dir",
+      "size": 4937,
+      "child": [
+        {
+          "parent": "HW4",
+          "name": "Zadacha_1.py",
+          "size": 322,
+          "type": "file"
+        },
+        {
+          "parent": "HW4",
+          "name": "Zadacha_2.py",
+          "size": 855,
+          "type": "file"
+        },
+        {
+          "parent": "HW4",
+          "name": "Zadacha_3.py",
+          "size": 3760,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW5",
+      "type": "dir",
+      "size": 2155,
+      "child": [
+        {
+          "parent": "HW5",
+          "name": "Zadacha_2.py",
+          "size": 848,
+          "type": "file"
+        },
+        {
+          "parent": "HW5",
+          "name": "Zadacha_3.py",
+          "size": 1004,
+          "type": "file"
+        },
+        {
+          "parent": "HW5",
+          "name": "Zadacha_4.py",
+          "size": 303,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW6",
+      "type": "dir",
+      "size": 4082,
+      "child": [
+        {
+          "parent": "HW6",
+          "name": "Chess_module_and_date_check",
+          "type": "dir",
+          "size": 2574,
+          "child": [
+            {
+              "parent": "Chess_module_and_date_check",
+              "name": "chess_check.py",
+              "size": 1363,
+              "type": "file"
+            },
+            {
+              "parent": "Chess_module_and_date_check",
+              "name": "date_check.py",
+              "size": 1133,
+              "type": "file"
+            },
+            {
+              "parent": "Chess_module_and_date_check",
+              "name": "_init_.py",
+              "size": 78,
+              "type": "file"
+            }
+          ]
+        },
+        {
+          "parent": "HW6",
+          "name": "main_module.py",
+          "size": 1508,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW7",
+      "type": "dir",
+      "size": 6564,
+      "child": [
+        {
+          "parent": "HW7",
+          "name": "create_files.py",
+          "size": 506,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "create_files_2.py",
+          "size": 195,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "files_splitting.py",
+          "size": 997,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "fill_numbers.py",
+          "size": 314,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "group_renaming.py",
+          "size": 382,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "main.py",
+          "size": 2083,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "names.txt",
+          "size": 69,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "name_generator.py",
+          "size": 523,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "new_dir_creating.py",
+          "size": 390,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "numbers.txt",
+          "size": 478,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "result.txt",
+          "size": 420,
+          "type": "file"
+        },
+        {
+          "parent": "HW7",
+          "name": "_init_.py",
+          "size": 207,
+          "type": "file"
+        }
+      ]
+    },
+    {
+      "parent": "HomeWork_auto_test",
+      "name": "HW8",
+      "type": "dir",
+      "size": 12267,
+      "child": [
+        {
+          "parent": "HW8",
+          "name": "hw_pack",
+          "type": "dir",
+          "size": 11544,
+          "child": [
+            {
+              "parent": "hw_pack",
+              "name": "dir_info.py",
+              "size": 3129,
+              "type": "file"
+            },
+            {
+              "parent": "hw_pack",
+              "name": "seminar_json.py",
+              "size": 3375,
+              "type": "file"
+            },
+            {
+              "parent": "hw_pack",
+              "name": "__init__.py",
+              "size": 0,
+              "type": "file"
+            },
+            {
+              "parent": "hw_pack",
+              "name": "__pycache__",
+              "type": "dir",
+              "size": 5040,
+              "child": [
+                {
+                  "parent": "__pycache__",
+                  "name": "dir_info.cpython-311.pyc",
+                  "size": 4862,
+                  "type": "file"
+                },
+                {
+                  "parent": "__pycache__",
+                  "name": "__init__.cpython-311.pyc",
+                  "size": 178,
+                  "type": "file"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "parent": "HW8",
+          "name": "hw_serialize.py",
+          "size": 723,
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}
