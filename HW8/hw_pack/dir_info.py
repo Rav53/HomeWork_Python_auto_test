@@ -44,7 +44,7 @@ def save_to_picle(info: dict, file_name: str):
 
 def dir_info(path: str = None) -> dict:
     # Получение информации о каталоге path. Если не указан - обрабатывается текущий каталог.
-    start_path = Path().cwd() if path is None else Path(path)
+    start_path = Path("G:\Lerning\Python_autotest\HomeWork_auto_test").cwd() if path is None else Path(path)
     return _file_info(start_path)
 
 
